@@ -1,4 +1,5 @@
 # How to Choose Your Best Show Winning Chickens
+comment: This is definately a roughdraft, however, the first section is more polished than the last half. I am looking to clarity and cohesiveness. I aam mainly wanting the content to make sense, and that it is arranged in a good way.
 
 ## Introduction
 
