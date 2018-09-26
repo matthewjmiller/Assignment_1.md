@@ -1,5 +1,5 @@
 # How to Choose Your Best Show Winning Chickens
-comment: This is definately a roughdraft, however, the first section is more polished than the last half. I am looking to clarity and cohesiveness. I aam mainly wanting the content to make sense, and that it is arranged in a good way.
+*By Erin Ingalsbe*
 
 ## Introduction
 
@@ -22,4 +22,27 @@ Before selecting certain traits, you must distinguish whether you have standard 
  
  ## Grooming a Show Winner
  
- After choosing the bird you want to show, you will need to clean and groom it. About two weeks before the show, the bird will need a bath. To accomplish this, you will need three buckets of warm water large enough to submerge the chicken’s body. In the first bucket, use dish soap to wash the chicken. Lift its wings and scrub the dish soap into its feathers, removing all the dirt. When holding the bird, place each hand on each side of its body, keeping its wings down against its body. After scrubbing with soap, lift the bird out of the water. Let the water drip off it before placing it into the second bucket. These next two buckets will contain clean, warm water to rinse all the soap out of the bird’s feathers. Repeat the process of lifting the bird out the bucket, letting it drip, and placing it into the next bucket. In each bucket gently push the bird down into the water until the water covers its back. Do not let the chicken’s head be submerged under the water at any time. While holding the chicken under the water, move it around, swishing it through the water and even twisting it back and forth to aid in rinsing all the soap out. Once the chicken has been thoroughly rinsed, take a bath towel, and lay it out on a table. Place the bird on its side, its head sticking off the towel on the longest edge. While holding the bird’s wings down, take one edge of the towel and wrap it over the bird and tuck it under. Then take the other side and wrap it tightly across the chicken’s body opposite direction, making a chicken burrito. This keeps both the wings and the legs wrapped tightly inside the towel so the chicken will not be able to get away. The burrito allows the bird to sit and dry before you let him out. While the chicken is still wrapped up, you can trim his beak and is toenails if they are too long. Take regular nail clippers and trim the tip of the nail, then trim the edges, rounding off the toe nail to make it less sharp and more natural looking. The same can be done for the top part of the chicken’s beak. After the chicken’s feathers have completely dried, take baby powder and powder the chicken’s vent. (poop chute) This prevents manure from caking up and collecting on the feathers around the bum-bum, making a mess. On the day of the show, right before judging starts, you will need to clean the bird again. Check the bottoms of his feet for manure and clean them with a baby wipe or an old toothbrush and soap. Take a baby wipe and wipe down the chicken’s feathers, removing dust and giving them a healthy-looking shine. Next, use olive oil and rub it into the comb, face, wattles, beak, legs, feet, and toes. This will bring out the natural color and shine in the bird’s skin and make it look especially healthy. Check the bird one last time for dirt and then place them in their cage to be judged. 
+ ### Bathing
+ 
+ After choosing the bird you want to show, you will need to clean and groom it. About two weeks before the show, the bird will need a bath. 
+ 
+ Some Equipment you will need to wash a chicken:
+ * Three five-gallon buckets
+ * Dish soap
+ * Warm Water
+ * Bath Towel
+ 
+ To accomplish this, you will need three buckets of warm water large enough to submerge the chicken’s body. In the first bucket, use dish soap to wash the chicken. Lift the wings and scrub the feathersto remove all the dirt. When holding the bird, place each hand on each side of its body, keeping its wings down against its body so it remains calm and wont get away from you. After scrubbing with soap, lift the bird out of the water. Let the water drip off it before placing it into the second bucket. These next two buckets will contain clean, warm water to rinse all the soap out of the bird’s feathers. Repeat the process of lifting the bird out the bucket, letting it drip, and placing it into the next bucket. In each bucket gently push the bird down into the water until the water covers its back. Do not let the chicken’s head be submerged under the water at any time. While holding the chicken under the water, move it around, swishing it through the water and even twisting it back and forth to aid in rinsing all the soap out. Once the chicken has been thoroughly rinsed, take a bath towel, and lay it out on a table. Place the bird on its side, its head sticking off the towel on the longest edge. While holding the bird’s wings down, take one edge of the towel and wrap it over the bird and tuck it under. Then take the other side and wrap it tightly across the chicken’s body opposite direction, making a chicken burrito. This keeps both the wings and the legs wrapped tightly inside the towel so the chicken will not be able to get away. The burrito allows the bird to sit and dry before you let him out. 
+ 
+ ![Chicken in a towel](https://github.com/Ronimaloni/Assignment_1.md/blob/master/Polish8.jpg)
+ 
+ While the chicken is still wrapped up, you can trim his beak and toenails if they are too long. Take regular nail clippers and trim the tip of the nail, then trim the edges, rounding off the toe nail to make it less sharp and more natural looking.The same can be done for the top part of the chicken's beak. Be sure not to trimm to far or you will cut their quick nad they will begin to bleed a little bit. After the chicken’s feathers have completely dried, take baby powder and powder the chicken’s vent. (backside or the chicken's butt) This prevents manure from caking up and collecting on the feathers around the vent, making a mess. 
+ 
+ ### Show Day Prep 
+ 
+ On the day of the show, right before judging starts, you will need to clean the bird again. Check the bottoms of his feet for manure and clean them with a baby wipe or an old toothbrush and soap. Take a baby wipe and wipe down the chicken’s feathers, removing dust and giving them a healthy-looking shine. Next, use olive oil and rub it into the comb, face, wattles, beak, legs, feet, and toes. This will bring out the natural color and shine in the bird’s skin and make it look especially healthy. Check the bird one last time for dirt and then place them in their cage to be judged. 
+ 
+![chicken](https://github.com/Ronimaloni/Assignment_1.md/blob/master/Ancona-bantam-male_8628.jpg)
+
+## FAQs
+ 
