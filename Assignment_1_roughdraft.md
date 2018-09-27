@@ -3,7 +3,10 @@
 
 ## Introduction
 
-My audience is Level 1 4-H kids and amateurs starting out and wanting to learn how to show chickens. 
+The first poultry show began in 1845 in London. The domestication and promotion of showing chickens came about because of the banning of cockfighting. Ever since the first poultry shows, Breeders have groomed and selected for certain traits that coincide with their breed. These breeds were streamlined with the creation of the Standard of Perfection in 1865. Chickens became increasingly popular, moving to America in 1849. Showing poultry even reached the royal courts of England, where Queen Victoria raised Cochins for poultry shows. Eventually the American Poultry Association took over many poultry shows and made the industry as we know it today. 
+
+Poultry is so diversible from the commercial poultry plants supplying eggs and meat for the world, down to the backyard hobbyist. Everyone is connected to poultry in some way and can find joy from being a part of it. This article serves as a guide for beginner poultry enthusiasts, backyard hobbyists, and Level 1 4-H Poultry members. This guide will aid in the process of choosing the right bird to show based on its physical traits and how to groom that show-winning bird to perform its best in a poultry show. 
+ 
 
 ## Choosing the best chicken
 
