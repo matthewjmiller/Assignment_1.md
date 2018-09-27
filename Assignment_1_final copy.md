@@ -60,3 +60,4 @@ Before selecting certain traits, you must distinguish whether you have standard 
 3. Do you lead the chicken around a show ring when they are judged?
         
    No, The birds are placed in cages according to class, breed, and variety (feather color) then the judge will come around and take the     birds out of the cage. The judge handles them, evaluates them, then ranks them according to the specifications in the Standard of       Perfection. 
+
