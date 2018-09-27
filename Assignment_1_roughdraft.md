@@ -55,7 +55,7 @@ Before selecting certain traits, you must distinguish whether you have standard 
         
 2.  Where do I get the information about the different breeds from the Standard of Perfection?
         
-   This information is in the book published by the American Poultry Association. You can purchase this book from their website.
+    This information is in the book published by the American Poultry Association. You can purchase this book from their website.
         
 3. Do you lead the chicken around a show ring when they are judged?
         
