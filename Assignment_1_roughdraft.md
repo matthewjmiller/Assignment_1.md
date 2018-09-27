@@ -50,12 +50,13 @@ Before selecting certain traits, you must distinguish whether you have standard 
 ## FAQs
 
 1. When does the beak need to be trimmed?
+        
         The beak will need to be trimmed as needed, you will be able to tell when it needs to be done because the top part of their beak         will curve down over the bottom part. This prevent them from being able to eat properly, and can promote cannibalism within the         flock.  
         
 2.  Where do I get the information about the different breeds from the Standard of Perfection?
+        
         This information is in the book published by the American Poultry Association. You can purchase this book from their website.
         
 3. Do you lead the chicken around a show ring when they are judged?
-        No, The birds are placed in cages according to class, breed, and variety then the judge will come around and take the birds out         of the cage. The judge handles them, evaluates them, then ranks them according to the specifications in the Standard of                 Perfection. 
         
-4. 
+        No, The birds are placed in cages according to class, breed, and variety then the judge will come around and take the birds out         of the cage. The judge handles them, evaluates them, then ranks them according to the specifications in the Standard of                 Perfection. 
