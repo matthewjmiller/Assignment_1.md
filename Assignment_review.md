@@ -8,3 +8,5 @@ There were no real specifications for this besides make the introduction two par
 Review of Github
 
 I still don't really like Github. For me, it's difficult to see the words on the screen. It's easier to see them in other things like Microsoft Word, because the font is bolder and it doesn't make my head hurt. The letters are too small, thin and faint for me to see them clearly as I type into Github. The formatting that you said would be easier than Microsoft Word really isn't. There is a whole new code to learn, and I stress over not knowing how it will turn out as soon as I do something. I have been raised using Word, and that is where I am most comfortable. 
+
+
